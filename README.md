@@ -3,8 +3,9 @@
 Please follow the instructions to complete the test task. We have provided you files which should be used in your localhost folder called "myjar".
 
   - Use your favourite local server engine
-  - Git clone or download zip and extract it to your localhost folder
-  - When finished, compress your code again and send it back to us!
+  - Fork repository. Git clone it to your localhost folder
+  - VCS usage is obligatory!
+  - When finished, Push to forked repo and inform us. Provide link to finished task repo.
 
 ### Instructions
 
@@ -19,11 +20,11 @@ Exact file base for the container is located at myjar/angular-app/client/overvie
 
 #####Front-end instructions
 
-  - Create tabbing functionality on top of the container. See [example-tabs.png](https://github.com/chanar/myjar-test/blob/main/example-tabs.png)
+  - Create tabbing functionality on top of the container. See [example-tabs.png](https://github.com/igorrootsi/myjar-test/blob/main/example-tabs.png)
   - There will be 3 tabs in total and each tab represents a product (Tabs: 1 month, 2 months, 3 months) 
-  - 2 and 3 month products don't have a day slider (only amount slider) and instead of a duration value (eg. "30 Days") they have fixed string name "2 Months" or "3 Months". See [2month-product.png](https://github.com/chanar/myjar-test/blob/main/2month-product.png)
+  - 2 and 3 month products don't have a day slider (only amount slider) and instead of a duration value (eg. "30 Days") they have fixed string name "2 Months" or "3 Months". See [2month-product.png](https://github.com/igorrootsi/myjar-test/blob/main/2month-product.png)
   - Change the main container and inner left side "slider" container backgrounds to the following color combinations: 2 months is green and 3 months is yellow. Tabs should match the colors.
   - Tabs should be dynamically generated based on API response (See Back-end instructions).
 
 ### Thank you!
-In case you have any questions about the test task send an e-mail to janar.palk@myjar.com
+In case you have any questions about the test task send an e-mail to igor.rootsi@myjar.com or call +372 5664 4321
