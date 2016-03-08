@@ -1,2 +1,5 @@
 syntax: glob
 .idea
+application/logs
+application/cache
+#misc

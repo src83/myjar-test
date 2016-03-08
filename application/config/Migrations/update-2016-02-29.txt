@@ -1,0 +1,6 @@
+Do it!
+------
+1. Create directory: mkdir application/logs/errors
+2. Change permissions on it:
+    chmod 775 application/logs/errors
+    chown www-data.www-data application/logs/errors
